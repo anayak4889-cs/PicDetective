@@ -9,7 +9,7 @@ PicDetective is a machine learning tool that can distinguish between real photog
 When on social media I always fall for fake contents created by AI. For this reason I wanted to create a model that would predict whether an image is AI generated or not while exploring neural networks and vision based machine learning. 
 
 ## Features
-- **Real-Time Guessing:** Play against the AI to see if you can spot the fakes better than the computer.
+- **Real-Time Guessing:** A game mode where you can play against the AI to see if you can spot the fakes better than the computer can. 
 - **Custom AI Model:** Uses a neural network built with PyTorch specifically for 32x32 image detection.
 - **Confidence Scoring:** Unlike simple classifiers, PicDetective shows you exactly how "sure" the AI is about its prediction.
 - **High Accuracy:** The model achieves ~94% accuracy on the CIFAKE test set.
